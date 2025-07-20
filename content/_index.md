@@ -16,7 +16,5 @@ sections:
       username: admin
     design:
       
-  - block: cta-button-list
-   
-      
+    
 ---
