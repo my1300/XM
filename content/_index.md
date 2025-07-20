@@ -10,13 +10,6 @@ design:
       filename: bg-hue.svg
 
 sections:
-  - block: resume-biography
-    content:
-      # The user's folder name in content/authors/
-      username: admin
-    design:
-      biography:
-        style: 'text-align: justify; font-size: 0.8em;'
-  - block: cta-button-list
+   []
   
 ---
