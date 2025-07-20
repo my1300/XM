@@ -10,6 +10,11 @@ design:
       filename: bg-hue.svg
 
 sections:
-   []
+   sections:
+  - block: resume-biography
+    content:
+      # The user's folder name in content/authors/
+      username: admin
+   
   
 ---
