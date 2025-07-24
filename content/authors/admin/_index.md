@@ -7,5 +7,10 @@ self-reconfiguring robots, systems of self-organizing robots, and mobile sensor 
 <div align="center">
     <img src="/uploads/风景.jpg" width=600" height="400">
 </div>
+<div align="center">
+    <video width="560" height="315" controls>
+        <source src="/uploads/wunianji.mp4" type="video/mp4">
+        您的浏览器不支持视频播放
+    </video>
+</div>
 
-<video src="/uploads/wunianji.mp4" controls width="400"></video>
