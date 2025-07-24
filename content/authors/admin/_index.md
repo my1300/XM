@@ -5,7 +5,7 @@
 distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
 self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.</p>
 <div align="center">
-    <img src="/uploads/风景.jpg" width=600" height="400">
+    <img src="/uploads/风景.jpg" width=800" height="400">
 </div>
 <div align="center">
     <video width="560" height="315" controls>
